@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Doodlz</string>
+    <string name="color">Color</string>
+    <string name="line">Line Width</string>
+    <string name="erase">Erase Drawing</string>
+    <string name="save">Save</string>
+    <string name="print">Print</string>
+    <string name="dialog_color_selection_title">Choose Color</string>
+    <string name="dialog_color_selection_alpha">Alpha</string>
+    <string name="dialog_color_selection_red">Red</string>
+    <string name="dialog_color_selection_green">Green</string>
+    <string name="dialog_color_selection_blue">Blue</string>
+    <string name="dialog_color_selection_button">SET COLOR</string>
+    <string name="dialog_line_width_title">Choose Line Width</string>
+    <string name="dialog_line_width_set">SET LINE WIDTH</string>
+    <string name="save_toast_fail">failed to save the picture</string>
+    <string name="save_toast_succeed">succeed to save the picture</string>
+</resources>
